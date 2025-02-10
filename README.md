@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello. My name is Erdem Ozkan. A Junior BSc Computer Engineering student at Antalya Bilim University. I'm developing myself front and back so full-stack. Currently studying on backend technologies of Web Development. (Javascript, ASP.NET Core MVC-API, Angular)
+Hello. My name is Erdem Ozkan. I'm last year Computer Engineering student at Antalya Bilim University.
 
 
 ## 🌐 Socials:
